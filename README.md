@@ -1,16 +1,41 @@
-## Hi there 👋
+How’s it going? Hope you’re doing well.
+I’m Jeetansh Arora, a backend developer who enjoys working on server-side logic, APIs, and databases. I mostly build things to learn, break them, and understand how real backend systems work.
 
-<!--
-**AroraJeetansh/AroraJeetansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my projects aren’t meant to be groundbreaking. They’re learning-focused and built to strengthen fundamentals around backend architecture, data handling, and API design.
 
-Here are some ideas to get you started:
+If you ever feel like talking about backend, systems, or tech in general, feel free to reach out.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Tech Stack
+Backend
+
+Node.js
+
+Express.js
+
+REST API design
+
+Middleware and routing
+
+Databases
+
+MongoDB
+
+Mongoose
+
+Basic SQL knowledge
+
+Authentication and Security
+
+JWT-based authentication
+
+Password hashing
+
+Protected routes
+
+Tools
+
+Git and GitHub
+
+Postman
+
+Environment configuration
